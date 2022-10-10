@@ -12,7 +12,7 @@ I am a beginner web developer from Szczecin, Poland. I design web products and b
 
 ## Skills
 
-- **Languages:** JavaScript, HTML5, CSS3, Scss, Sass
+- **Languages:** JavaScript, HTML5, CSS3, Scss, Sass, Ui/UX
 - **Other:** Git/Github, Figma
 
 ## Code examples
