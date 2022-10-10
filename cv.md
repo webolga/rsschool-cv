@@ -107,3 +107,4 @@ Here you can see my projects [GitHub Pages - Olga Kulczycka](https://yakolga.git
 - **Polish** - C1
 - **Russian** - native
 - **Ukrainian** - native
+- **German** - A2
