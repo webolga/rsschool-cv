@@ -1,1 +1,1 @@
-[CV Markdown](https://webolga.github.io/rsschool-cv/cv)
+[CV Markdown](https://webolga.github.io/rsschool-cv/)
